@@ -1,4 +1,4 @@
-## Real Estate Management Website (MERN Stack)
+## Real Estate Management Website 
 
 A responsive full-stack real estate website where users can book visits, manage favorites, and add properties. Built using the **MERN** stack and **Auth0** for authentication.
 
