@@ -1,10 +1,10 @@
- Real Estate Management Website (MERN Stack)
+## Real Estate Management Website (MERN Stack)
 
 A responsive full-stack real estate website where users can book visits, manage favorites, and add properties. Built using the **MERN** stack and **Auth0** for authentication.
 
 ---
 
-## 🔑 Features
+## Features
 
 - **Login System** using Auth0
 - **Book a Visit** – Choose a property, pick a date, and book a visit
@@ -14,7 +14,7 @@ A responsive full-stack real estate website where users can book visits, manage 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend:
 - React.js
